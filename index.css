@@ -248,9 +248,9 @@ section { padding: 80px 5%; }
 }
 .line.html::after { width: 90%; }
 .line.css::after { width: 80%; }
-.line.js::after { width: 85%; }
-.line.php::after { width: 75%; }
-.line.mysql::after { width: 70%; }
+.line.js::after { width: 60%; }
+.line.php::after { width: 60%; }
+.line.mysql::after { width: 50%; }
 
 /* ===== Teams Section ===== */
 .teams .carousel .card {
